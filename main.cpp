@@ -22,5 +22,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    
+    std::cout<<"kész a házi feladat"
     return 0;
 }
